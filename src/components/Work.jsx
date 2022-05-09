@@ -62,7 +62,7 @@ const Work = () => {
                 PHP Project
               </span>
               <div className="pt-8 text-center">
-                <a href="/couchpotato">
+                <a href="/#/couchpotato">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -88,7 +88,7 @@ const Work = () => {
                 React JS & Rapid API
               </span>
               <div className="pt-8 text-center">
-                <a href="/realtor">
+                <a href="/#/realtor">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -114,7 +114,7 @@ const Work = () => {
                 React JS Project
               </span>
               <div className="pt-8 text-center">
-                <a href="/cadmin">
+                <a href="/#/cadmin">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
