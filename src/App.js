@@ -9,10 +9,10 @@ function App() {
   return (
       <Routes>
         <Route path="/" exact element={<Home />}></Route>
-        <Route path="/#/nailedit" exact element={<Nailedit />}></Route>
-        <Route path="/#/couchpotato" exact element={<CouchPotato />}></Route>
-        <Route path="/#/realtor" exact element={<Realtor />}></Route>
-        <Route path="/#/cadmin" exact element={<CAdmin />}></Route>
+        <Route path="/nailedit" exact element={<Nailedit />}></Route>
+        <Route path="/couchpotato" exact element={<CouchPotato />}></Route>
+        <Route path="/realtor" exact element={<Realtor />}></Route>
+        <Route path="/cadmin" exact element={<CAdmin />}></Route>
       </Routes>
   );
 }
