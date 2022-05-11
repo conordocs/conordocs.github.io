@@ -17,7 +17,7 @@ const Contact = () => {
           </p>
           {/* eslint-disable-next-line */}
           <p className="text-gray-300 py-4">
-            // Submit the form below or send me an email @ <a href="mailto:conordoherty@hotmail.com">conordoherty97@hotmail.com</a>
+            // Submit the form below or send me an email @ <a href="mailto:conordoherty97@hotmail.com">conordoherty97@hotmail.com</a>
           </p>
         </div>
         <input
