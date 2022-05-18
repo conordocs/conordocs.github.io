@@ -146,7 +146,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/conordocs/couchpotato">
+                <a href="https://github.com/conordocs/react_netflix">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
