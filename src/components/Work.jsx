@@ -3,6 +3,7 @@ import NailedItLogo from "../assets/naileditImg/products-1.png";
 import CouchPotatoLogo from "../assets/couchPotatoImg/homepage.png";
 import RealtorLogo from "../assets/RealtorImg/1.png";
 import CAdminHome from "../assets/CAdmin/index-light.PNG";
+import NetflixLogo from "../assets/netflixImg/1.PNG";
 
 const Work = () => {
   return (
@@ -128,6 +129,32 @@ const Work = () => {
             </div>
           </div>
           {/* CAdmin End */}
+
+          {/* Netflix */}
+          <div
+            style={{ backgroundImage: `url(${NetflixLogo})` }}
+            className="bg-cover bg-center shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider content-center">
+                React JS Project
+              </span>
+              <div className="pt-8 text-center">
+                <a href="/#/netflix">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a href="https://github.com/conordocs/couchpotato">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* Neflix End */}
         </div>
       </div>
     </div>
