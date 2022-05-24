@@ -30,7 +30,7 @@ const Navbar = () => {
       className={
         shadow
           ? "fixed w-full h-20 shadow-lg shadow-gray-700 z-[100] pr-10 pl-10"
-          : "fixed w-full h-20 z-[100] pr-10 pl-10"
+          : "fixed w-full h-20 z-[100] pr-5 pl-5"
       }
     >
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16 text-gray-200">
