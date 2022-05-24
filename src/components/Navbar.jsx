@@ -164,16 +164,40 @@ const Navbar = () => {
               </p>
               <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
                 <div className="rounded-full bg-gray-700/80 p-3 cursor-pointer hover:scale-110 ease-in duration-250 hover:text-[#12D670]">
-                  <FaLinkedin />
+                  <a
+                    className="flex justify-between items-center w-full text-gray-300 hover:text-[#12D670]"
+                    href="https://www.linkedin.com/in/conor-doherty-101/"
+                    target="_blank"
+                  >
+                    <FaLinkedin />
+                  </a>
                 </div>
                 <div className="rounded-full bg-gray-700/80 p-3 cursor-pointer hover:scale-110 ease-in duration-250 hover:text-[#12D670]">
-                  <FaGithub />
+                  <a
+                    className="flex justify-between items-center w-full text-gray-300 hover:text-[#12D670]"
+                    href="https://github.com/conordocs?tab=repositories"
+                    target="_blank"
+                  >
+                    <FaGithub />
+                  </a>
                 </div>
                 <div className="rounded-full bg-gray-700/80 p-3 cursor-pointer hover:scale-110 ease-in duration-250 hover:text-[#12D670]">
-                  <AiOutlineMail />
+                  <a
+                    className="flex justify-between items-center w-full text-gray-300 hover:text-[#12D670]"
+                    href="mailto:conordoherty97@hotmail.com"
+                    target="_blank"
+                  >
+                    <AiOutlineMail />
+                  </a>
                 </div>
                 <div className="rounded-full bg-gray-700/80 p-3 cursor-pointer hover:scale-110 ease-in duration-250 hover:text-[#12D670]">
-                  <BsFillPersonLinesFill />
+                  <a
+                    className="flex justify-between items-center w-full text-gray-300 hover:text-[#12D670]"
+                    href={Resume}
+                    target="_blank"
+                  >
+                    <BsFillPersonLinesFill />
+                  </a>
                 </div>
               </div>
             </div>
