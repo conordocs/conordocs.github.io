@@ -7,13 +7,13 @@ const Banner = () => {
     <div id="home" className="w-full h-screen text-center bg-[#0a192f]">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
-          <p className="uppercase text-sm tracking-widest text-[#12D670]">
+          <p className="uppercase tracking-widest text-[#12D670] text-xl">
             Hi, my name is
           </p>
           <h1 className="py-4 text-gray-400 text-5xl font-bold">
             Conor Doherty
           </h1>
-          <p className="py-4 text-gray-300 max-w-[70%] m-auto">
+          <p className="py-4 text-gray-300 max-w-[70%] m-auto text-lg">
             I have just recently finished studying BSc Computing & Information
             Technologies at Queen’s University Belfast. I am currently working
             as a User Support Technician at Queen’s University Belfast. I wish

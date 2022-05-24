@@ -4,6 +4,7 @@ import NailedItLogo from "../assets/naileditImg/products-1.png";
 import CouchPotatoLogo from "../assets/couchPotatoImg/homepage.png";
 import RealtorLogo from "../assets/RealtorImg/1.png";
 import NetflixLogo from "../assets/netflixImg/home.png";
+import BookingLogo from "../assets/bookingImgs/home.png";
 
 const Work = () => {
   return (
@@ -38,6 +39,12 @@ const Work = () => {
             title="Netflix"
             backgroundImg={NetflixLogo}
             projectUrl="/#/netflix"
+            projectType="React JS"
+          />
+          <ProjectItem
+            title="Booking"
+            backgroundImg={BookingLogo}
+            projectUrl="/#/booking"
             projectType="React JS"
           />
         </div>
