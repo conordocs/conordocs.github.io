@@ -168,6 +168,7 @@ const Navbar = () => {
                     className="flex justify-between items-center w-full text-gray-300 hover:text-[#12D670]"
                     href="https://www.linkedin.com/in/conor-doherty-101/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <FaLinkedin />
                   </a>
@@ -177,6 +178,7 @@ const Navbar = () => {
                     className="flex justify-between items-center w-full text-gray-300 hover:text-[#12D670]"
                     href="https://github.com/conordocs?tab=repositories"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <FaGithub />
                   </a>
@@ -186,6 +188,7 @@ const Navbar = () => {
                     className="flex justify-between items-center w-full text-gray-300 hover:text-[#12D670]"
                     href="mailto:conordoherty97@hotmail.com"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <AiOutlineMail />
                   </a>
@@ -195,6 +198,7 @@ const Navbar = () => {
                     className="flex justify-between items-center w-full text-gray-300 hover:text-[#12D670]"
                     href={Resume}
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <BsFillPersonLinesFill />
                   </a>
