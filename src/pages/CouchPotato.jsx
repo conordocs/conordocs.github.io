@@ -75,7 +75,7 @@ const CouchPotato = () => {
             </p>
             <br />
             <br />
-            <div className="slide-container">
+            <div className="slide-container z-[1]">
               <Zoom scale={0.4}>
                 {images.map((each, index) => (
                   <img

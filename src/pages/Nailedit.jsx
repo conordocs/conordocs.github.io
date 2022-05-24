@@ -43,11 +43,11 @@ const Nailedit = () => {
             </p>
             {/* eslint-disable-next-line */}
             <p className="py-4">
-              // NailedIT is my final year project which was focused on the title
-              of “How might we use software to promote Remote-Shopping”. This
-              was an individual project as part of my dissertation focussing on
-              assisting tradespeople to continue working during the COVID-19
-              lockdowns.
+              // NailedIT is my final year project which was focused on the
+              title of “How might we use software to promote Remote-Shopping”.
+              This was an individual project as part of my dissertation
+              focussing on assisting tradespeople to continue working during the
+              COVID-19 lockdowns.
             </p>
             <p>
               <li>
@@ -72,7 +72,7 @@ const Nailedit = () => {
             </p>
             <br />
             <br />
-            <div className="slide-container">
+            <div className="slide-container z-10">
               <Zoom scale={0.4}>
                 {images.map((each, index) => (
                   <img

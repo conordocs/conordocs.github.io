@@ -1,10 +1,13 @@
 import React from "react";
+import { HashLink as Link } from "react-router-hash-link";
+import { HiOutlineChevronDoubleUp } from "react-icons/hi";
 
 const Contact = () => {
   return (
     <div
-      name="contact" id="contact"
-      className="w-full h-screen bg-[#0a192f] flex justify-center items-center p-4"
+      name="contact"
+      id="contact"
+      className="w-full h-full bg-[#0a192f] flex justify-center items-center p-4 pb-5"
     >
       <form
         method="POST"
@@ -17,7 +20,10 @@ const Contact = () => {
           </p>
           {/* eslint-disable-next-line */}
           <p className="text-gray-300 py-4">
-            // Submit the form below or send me an email @ <a href="mailto:conordoherty97@hotmail.com">conordoherty97@hotmail.com</a>
+            // Submit the form below or send me an email @{" "}
+            <a href="mailto:conordoherty97@hotmail.com">
+              conordoherty97@hotmail.com
+            </a>
           </p>
         </div>
         <input
@@ -41,6 +47,13 @@ const Contact = () => {
         <button className="text-white border-2 hover:bg-[#11d670] px-4 py-3 my-8 mx-auto flex items-center">
           Let's Talk!
         </button>
+        <div className="flex justify-center py-12">
+          <Link to="/#home" smooth={true} duration={500}>
+            <div className="rounded-full bg-gray-700/80 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+              <HiOutlineChevronDoubleUp className="text-[#12D670]" size={30} />
+            </div>
+          </Link>
+        </div>
       </form>
     </div>
   );

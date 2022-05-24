@@ -9,12 +9,18 @@ import PHPImg from "../assets/skills/php.png";
 
 const Skills = () => {
   return (
-    <div name="skills" id="skills" className="w-full h-screen bg-[#0a192f] text-gray-300">
+    <div
+      name="skills"
+      id="skills"
+      className="w-full h-full bg-[#0a192f] text-gray-300 pb-5"
+    >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="">
-          <p className="text-4xl font-bold inline border-b-4 border-[#11d670]">Skills</p>
+          <p className="text-4xl font-bold inline border-b-4 border-[#11d670]">
+            Skills
+          </p>
           {/* eslint-disable-next-line */}
-          <p className="py-4">//These are the technologies that I have worked with.</p>
+          <p className="pt-4 text-2xl">What I specialise in...</p>
         </div>
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-8">
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
