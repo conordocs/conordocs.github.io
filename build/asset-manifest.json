@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.25a902f0.css",
-    "main.js": "/static/js/main.80674799.js",
-    "static/media/7.PNG": "/static/media/7.633757755c662fde59d8.PNG",
-    "static/media/6.PNG": "/static/media/6.d9f96a4a7de1eb638dd4.PNG",
-    "static/media/1.PNG": "/static/media/1.28cd01d1fa4565b0f8cc.PNG",
-    "static/media/2.PNG": "/static/media/2.962aa59a51f57b63b216.PNG",
-    "static/media/4.PNG": "/static/media/4.bd7e70033a84f48a578a.PNG",
-    "static/media/3.PNG": "/static/media/3.da7d051fb177b469d176.PNG",
-    "static/media/5.PNG": "/static/media/5.51dba643835f52f58dc6.PNG",
+    "main.css": "/static/css/main.6092405d.css",
+    "main.js": "/static/js/main.e0e55ccc.js",
+    "static/media/7.PNG": "/static/media/7.ce361dea78903112880a.PNG",
+    "static/media/6.PNG": "/static/media/6.d09411af1f68afd17bcd.PNG",
+    "static/media/1.PNG": "/static/media/1.f24d25fb359f99a39f3f.PNG",
+    "static/media/2.PNG": "/static/media/2.fec84cd110f39c5ca769.PNG",
+    "static/media/4.PNG": "/static/media/4.61838f67b17a50e609fc.PNG",
+    "static/media/3.PNG": "/static/media/3.1de6c873ca143ea0c4a5.PNG",
+    "static/media/5.PNG": "/static/media/5.3d49b211a4dbf076bf74.PNG",
     "static/media/8.PNG": "/static/media/8.aff7ac2a631fa4c73f1f.PNG",
-    "static/media/home.png": "/static/media/home.55c0d0c5ab81890754a4.png",
+    "static/media/home.png": "/static/media/home.bdf0712ce3e52250706f.png",
     "static/media/2.png": "/static/media/2.883e262236187f201cd8.png",
     "static/media/1.png": "/static/media/1.43555cb0d7653d02be96.png",
     "static/media/3.png": "/static/media/3.1dee8f9176f1c98c03a3.png",
@@ -25,10 +25,6 @@
     "static/media/shops-1.png": "/static/media/shops-1.6c325533187b142da840.png",
     "static/media/7.png": "/static/media/7.f5dad36c681619699e23.png",
     "static/media/tool-1.png": "/static/media/tool-1.ec02863fa61b43db0cdf.png",
-    "static/media/users-light.PNG": "/static/media/users-light.6e24a4c3e660f6340379.PNG",
-    "static/media/index-dark.PNG": "/static/media/index-dark.e9d0883ff1fb451b2e8c.PNG",
-    "static/media/users-dark.PNG": "/static/media/users-dark.2fba9a25d5b5ea26ca00.PNG",
-    "static/media/index-light.PNG": "/static/media/index-light.39d603270825bbf909d1.PNG",
     "static/media/show-search.png": "/static/media/show-search.58c27fa174e5c9a98e25.png",
     "static/media/netflix-awards.png": "/static/media/netflix-awards.6bc474eb9373363bcf21.png",
     "static/media/prime-awards.png": "/static/media/prime-awards.cc6d6a929210266d8f32.png",
@@ -42,12 +38,8 @@
     "static/media/appointment-1.png": "/static/media/appointment-1.b4426d4007b744ab16b9.png",
     "static/media/show-details.png": "/static/media/show-details.3adc1d6c2e74aaa71983.png",
     "static/media/watchlist.png": "/static/media/watchlist.3ef9fcb8fa9bd09ea4e8.png",
-    "static/media/new-user-dark.PNG": "/static/media/new-user-dark.ed43127030fa1dd92e4b.PNG",
-    "static/media/new-user-light.PNG": "/static/media/new-user-light.8d63c5b35da47db57765.PNG",
     "static/media/add-show.png": "/static/media/add-show.4be52e5f28e3b24760e0.png",
-    "static/media/new-product-dark.PNG": "/static/media/new-product-dark.ec9000852b8a6dffb3f9.PNG",
     "static/media/edit-delete-show.png": "/static/media/edit-delete-show.d733916fb2b4434c7c68.png",
-    "static/media/new-product-light.PNG": "/static/media/new-product-light.2d3c8b15ebb690770fd5.PNG",
     "static/media/orders-1.png": "/static/media/orders-1.dced64c7d259b294ec36.png",
     "static/media/admin-home.png": "/static/media/admin-home.042bd1d622e0a58c161b.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -57,11 +49,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.25a902f0.css.map": "/static/css/main.25a902f0.css.map",
-    "main.80674799.js.map": "/static/js/main.80674799.js.map"
+    "main.6092405d.css.map": "/static/css/main.6092405d.css.map",
+    "main.e0e55ccc.js.map": "/static/js/main.e0e55ccc.js.map"
   },
   "entrypoints": [
-    "static/css/main.25a902f0.css",
-    "static/js/main.80674799.js"
+    "static/css/main.6092405d.css",
+    "static/js/main.e0e55ccc.js"
   ]
 }
