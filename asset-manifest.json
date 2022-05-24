@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6aa4d6d.css",
-    "main.js": "/static/js/main.67c19808.js",
+    "main.css": "/static/css/main.a9fd1c5a.css",
+    "main.js": "/static/js/main.487422ed.js",
     "static/media/7.PNG": "/static/media/7.633757755c662fde59d8.PNG",
     "static/media/6.PNG": "/static/media/6.d9f96a4a7de1eb638dd4.PNG",
     "static/media/1.PNG": "/static/media/1.28cd01d1fa4565b0f8cc.PNG",
@@ -10,6 +10,7 @@
     "static/media/3.PNG": "/static/media/3.da7d051fb177b469d176.PNG",
     "static/media/5.PNG": "/static/media/5.51dba643835f52f58dc6.PNG",
     "static/media/8.PNG": "/static/media/8.aff7ac2a631fa4c73f1f.PNG",
+    "static/media/home.png": "/static/media/home.55c0d0c5ab81890754a4.png",
     "static/media/2.png": "/static/media/2.883e262236187f201cd8.png",
     "static/media/1.png": "/static/media/1.43555cb0d7653d02be96.png",
     "static/media/3.png": "/static/media/3.1dee8f9176f1c98c03a3.png",
@@ -18,6 +19,7 @@
     "static/media/products-1.png": "/static/media/products-1.fcac6b4b38e033c7edc2.png",
     "static/media/homepage.png": "/static/media/homepage.f5901ff4cfcb95927265.png",
     "static/media/5.png": "/static/media/5.4fe4c8440632868db72a.png",
+    "static/media/Profile.jpg": "/static/media/Profile.ef742a075515336daad7.jpg",
     "static/media/Conor Doherty - CV.pdf": "/static/media/Conor Doherty - CV.5ce74adf0f4f1a5e85b6.pdf",
     "static/media/faq-1.png": "/static/media/faq-1.70b458b9e6ab92eb16fa.png",
     "static/media/shops-1.png": "/static/media/shops-1.6c325533187b142da840.png",
@@ -55,11 +57,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.b6aa4d6d.css.map": "/static/css/main.b6aa4d6d.css.map",
-    "main.67c19808.js.map": "/static/js/main.67c19808.js.map"
+    "main.a9fd1c5a.css.map": "/static/css/main.a9fd1c5a.css.map",
+    "main.487422ed.js.map": "/static/js/main.487422ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6aa4d6d.css",
-    "static/js/main.67c19808.js"
+    "static/css/main.a9fd1c5a.css",
+    "static/js/main.487422ed.js"
   ]
 }
