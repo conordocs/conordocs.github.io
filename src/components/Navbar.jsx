@@ -29,7 +29,7 @@ const Navbar = () => {
       style={{ backgroundColor: `${navBg}` }}
       className={
         shadow
-          ? "fixed w-full h-20 shadow-lg shadow-gray-700 z-[100] pr-10 pl-10"
+          ? "fixed w-full h-20 shadow-lg shadow-gray-700 z-[100] pr-5 pl-5"
           : "fixed w-full h-20 z-[100] pr-5 pl-5"
       }
     >
@@ -115,7 +115,7 @@ const Navbar = () => {
             <div className=""></div>
           </div>
 
-          <div className="py-4 flex flex-col">
+          <div className="py-4 flex flex-col mt-10">
             <ul className="uppercase">
               <Link to="/#home" smooth={true} duration={500}>
                 <li
