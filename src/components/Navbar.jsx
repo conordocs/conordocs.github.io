@@ -4,7 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from "react-icons/ai";
 import LogoImg from "../assets/logo.png";
-import Resume from "../assets/Conor Doherty - CV.pdf";
+import Resume from "../assets/Conor Doherty - CV - May.pdf";
 import { HashLink as Link } from "react-router-hash-link";
 
 const Navbar = () => {
